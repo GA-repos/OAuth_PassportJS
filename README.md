@@ -176,9 +176,9 @@ We will complete these stories today:
 
 1. `cd ~/code`
 
-2. Clone the `sei-students` repo:  `git clone https://git.generalassemb.ly/SEI-CC/sei-students.git`
+2. FORK and Clone our OAuth (this page) lesson: https://git.generalassemb.ly/Flex-322/OAuth_PassportJS
 
-3. `cd sei-students`
+3. `cd student/sei-students`
 
 4. Install the app's Node modules: `npm i`
 
@@ -186,7 +186,7 @@ We will complete these stories today:
 
 6. Create a `.env` file:  `touch .env`
 
-7. Add a key of `DATABASE_URL` and assign it the database connection string value provided by yours truly
+7. Add a key of `DATABASE_URL` and assign it the database connection string value provided by ***yours truly***
 
 8. `nodemon` and browse to `localhost:3000` to test.
 
